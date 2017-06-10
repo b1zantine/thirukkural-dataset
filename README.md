@@ -17,5 +17,5 @@ into one using '$' as the delimiter for convenience.
 This file contains all the chapter names, a total of 133.
 
 ### Note
-If you wish to get a more rich content about thirukkural in a structured format,
+If you wish to get thirukkural in a structured format (json) with rich content,
 checkout this [repo](https://github.com/tk120404/thirukkural)
